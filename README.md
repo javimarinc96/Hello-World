@@ -1,3 +1,4 @@
+![hello-world](https://user-images.githubusercontent.com/44240533/222983769-4d8cf343-d65e-405c-a4c9-5929fa258e1b.svg)
 # Hello World
 
 Welcome to Hello World on Exercism's Java Track.
